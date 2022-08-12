@@ -1,5 +1,5 @@
 {
-  "name": "whatsappbot-md-beta2",
+  "name": "ROLEX-MD",
   "version": "2.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "index.js",
@@ -82,10 +82,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alien-Alfa/WhatsAppBot-MD-BETA2.git"
+    "url": "git+https://github.com/husni-ser-x7/ROLEX-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Alien-Alfa/WhatsAppBot-MD-BETA2/issues"
+    "url": "https://github.com/husni-ser-x7/ROLEX-MD/issues"
   },
-  "homepage": "https://github.com/Alien-Alfa/WhatsAppBot-MD-BETA2#readme"
+  "homepage": "https://github.com/husni-ser-x7/ROLEX-MD#readme"
 }
